@@ -24,7 +24,7 @@ Ie.licenseInfo.isTrialAvailable = false
 Ie.licenseInfo.hasValidLicense = true
 ````
 
-##Fiddler.WebUi.il
+## Fiddler.WebUi.il
 
 > modify this file to remove file verification
 
@@ -36,7 +36,7 @@ IL_0208: /* 17 | */ ldc.i4.1
 IL_0209: /* 2A | */ ret
 ````
 
-##FiddlerBackendSDK.il
+## FiddlerBackendSDK.il
 
 ### method FiddlerBackendSDK.User.UserClient::GetBestAccount
 
